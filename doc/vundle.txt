@@ -3,19 +3,19 @@
                               VUNDLE MANUAL
 
 1. About Vundle                                    |vundle-about|
-2. Quick Start                                     |vundle-quickstart|
-3. Plugins                                         |vundle-plugins|
-  3.1. Configuring Plugins                         |vundle-plugins-configure|
-  3.2. Supported URIs                              |vundle-plugins-uris|
-  3.3. Installing Plugins                          |vundle-plugins-install|
-  3.4. Updating Plugins                            |vundle-plugins-update|
-  3.5. Searching Plugins                           |vundle-plugins-search|
-  3.6. Listing Plugins                             |vundle-plugins-list|
-  3.7. Cleaning Up                                 |vundle-plugins-cleanup|
-4. Interactive Mode                                |vundle-interactive|
-5. Key Mappings                                    |vundle-keymappings|
-6. Options                                         |vundle-options|
-7. Plugin Interface Change                         |vundle-interface-change|
+1. Quick Start                                     |vundle-quickstart|
+1. Plugins                                         |vundle-plugins|
+  1. Configuring Plugins                         |vundle-plugins-configure|
+  1. Supported URIs                              |vundle-plugins-uris|
+  1. Installing Plugins                          |vundle-plugins-install|
+  1. Updating Plugins                            |vundle-plugins-update|
+  1. Searching Plugins                           |vundle-plugins-search|
+  1. Listing Plugins                             |vundle-plugins-list|
+  1. Cleaning Up                                 |vundle-plugins-cleanup|
+1. Interactive Mode                                |vundle-interactive|
+1. Key Mappings                                    |vundle-keymappings|
+1. Options                                         |vundle-options|
+1. Plugin Interface Change                         |vundle-interface-change|
 
 =============================================================================
 1. ABOUT VUNDLE ~
